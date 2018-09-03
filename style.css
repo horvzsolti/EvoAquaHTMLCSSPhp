@@ -1,0 +1,197 @@
+body
+{
+	background-color: #b3ccff;
+}
+
+header, footer{
+	background-color: #1860a9;
+	text-shadow: 0px 0px 10px white;
+}
+footer p{
+	font-weight: bold;
+}
+
+footer{
+	box-shadow: 0px -10px 15px 5px #1860a9;
+}
+
+main
+{
+
+	padding: 30px;
+	margin: auto;
+}
+
+td
+{
+    text-align: center;
+	border: 1px solid black !important;	
+}
+thead
+{
+	font-weight: bold;
+}
+label
+{
+	font-size: 12px;
+}
+.options
+{
+	font-weight: bold;
+}
+.mySlides
+{
+	height:350px;
+	box-shadow: 0px 10px 15px 5px #1860a9;
+
+}
+.refresh, .refresh:focus, .refresh:target
+{
+	font-weight: bold;
+	background-color: #1860a9 !important;
+	color: white;
+}
+
+#banner
+{
+	width: 100%;
+}
+
+#elso{
+	background-image: url("Images/P_20171111_101541.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#masodik{
+	background-image: url("Images/P_20171111_101610.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#harmadik{
+	background-image: url("Images/P_20171111_101647.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#negyedik{
+	background-image: url("Images/P_20171111_102116.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#otodik{
+	background-image: url("Images/P_20171111_102229.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#hatodik{
+	background-image: url("Images/P_20171111_102230.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#nyolcadik{
+	background-image: url("Images/P_20171111_104122.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#kilencedik{
+	background-image: url("Images/P_20171111_104947.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizedik{
+	background-image: url("Images/P_20171111_104951.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenegyedik{
+	background-image: url("Images/P_20171111_111243.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenkettedik{
+	background-image: url("Images/P_20171111_111504.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenharmadik{
+	background-image: url("Images/P_20171111_111509.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizennegyedik{
+	background-image: url("Images/P_20171111_112307.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenotodik{
+	background-image: url("Images/P_20171111_112449.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenhatodik{
+	background-image: url("Images/P_20171111_112459.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenhetedik{
+	background-image: url("Images/P_20171111_112807.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizennyolcadik{
+	background-image: url("Images/P_20171111_113109.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#tizenkilencedik{
+	background-image: url("Images/P_20171111_121138.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#huszadik{
+	background-image: url("Images/P_20171111_121213.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#huszonegyedik{
+	background-image: url("Images/P_20171111_164107.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#huszonkettedik{
+	background-image: url("Images/P_20171111_164122.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#huszonharmadik{
+	background-image: url("Images/P_20171111_170440.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+#huszonhetedik{
+	background-image: url("Images/P_20171111_174443.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+
+@media only screen and (max-width: 980px) {
+	table td:nth-child(1), 
+	table th:nth-child(1) {display: none;}
+}
+ 
+@media only screen and (max-width: 780px) {
+	table td:nth-child(7),
+	table th:nth-child(7) {display: none;}
+}
+@media only screen and (max-width: 550px) {
+	table td:nth-child(6), 
+	table th:nth-child(6) {display: none;}
+}
+	
+
+
+
+
+
+
+
+
